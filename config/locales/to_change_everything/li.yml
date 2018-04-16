@@ -5,20 +5,20 @@ lietuvos:
       lang_code: li
       video_url: https://player.vimeo.com/video/111159930 # todo
       head:
-        title: "Tam, kad viską pakeistum: anarchistinis apeliacinis skundas / CrimethInc. Ex-Workers' Collective" # todo
+        title: "Tam, kad viską pakeistum / CrimethInc. Ex-Workers' Collective"
         meta:
-          title: "Tam, kad viską pakeistum: anarchistinis apeliacinis skundas" # todo
-          description: Visiško apsisprendimo atvejis - gąsdinantis, įdomus ir švarus širdis # todo
+          title: "Tam, kad viską pakeistum"
+          description: Link visiškos savivaldos - praktinis vadovas smalsiem, atkakliem ir tyraširdžiam.
           url: http://tochangeeverything.com/lietuvos # todo
       menu:
-        toc: Turinys # Googele translate
+        toc: Turinys
         language: lietuvos
-        share: Dalintis # Googele translate
+        share: Dalintis
       bulk_get:
         url: /tce/get/#order
-        text: Užsisakykite anglų kalbos versiją # Googele translate (Order Engish edition in Bulk)
+        text: Užsisakykite atspausdintą tekstą anglų kalba (platinimui)
       toc:
-        introduction: įvadas # Googele translate
+        introduction: įvadas
         self: Pradėk nuo savimonės
         answering: Pradėk nuo atsakomybės sau
         power: Pradėk siekti asmeninės galios, o ne įtakos
@@ -36,15 +36,15 @@ lietuvos:
         property: Problema slypi nuosavybėje
         lastcrime: Paskutinis nusikaltimas
         anarchy: Anarchija - tai
-        outro: išvadą # google translate of 'conclusion'
+        outro: Išvados
         takeflight: skristi # google translate
-        next: Kitas # google translate
+        next: Kitas
   to_change_everything:
     show:
       title_html: 'Tam, kad viską pakeistum'
       subtitle_html: <span class="green">anarchistinis</span> <span class="pink">apeliacinis</span> <span class="blue">skundas</span>
-      video_cte: Žiūrėti video # google translate
-      pdf_cte_html: Atsisiųskite<br />&nbsp;PDF # google translate
+      video_cte: Žiūrėti video
+      pdf_cte_html: Atsisiųskite<br />&nbsp;PDF
       pdf_get_url: /tce/get
       pdf_image: tce-cover-200.png
       intro:
@@ -139,4 +139,4 @@ lietuvos:
         right_text_html: Tam, kad viską pakeisti, reikia pradėti visur.
       take_flight_html: Negalima klijuoti prie senojo pasaulio # Google translate
       next_path: /begin
-      next_text: Paslaptis turi prasidėti. # Google translate
+      next_text: Paslaptis yra pradėti.
